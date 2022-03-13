@@ -1,0 +1,10 @@
+<suite name = "Practico">
+    <parameter name="tag" value = "h1"></parameter>
+
+
+    <test name="Ejercicios Testng">
+        <classes>
+            <class name="Básico.Clase5.Practico.TestParametrizables"></class>
+        </classes>
+    </test>
+</suite>

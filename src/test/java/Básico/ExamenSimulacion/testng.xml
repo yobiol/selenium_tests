@@ -1,0 +1,9 @@
+<suite name="ExamenSimulacion">
+
+    <test name="Examen Selenium">
+        <classes>
+            <class name="Básico.ExamenSimulacion.Prueba_mailchimp"></class>
+        </classes>
+    </test>
+
+</suite>

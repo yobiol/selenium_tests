@@ -1,0 +1,11 @@
+<suite name = "EjercicioGit">
+
+    <parameter name="tag" value = "h2"></parameter>
+
+
+    <test name="Ejercicios Testng">
+        <classes>
+            <class name="Básico.Clase4.EjercicioGit.SpotifyTestWithParameters"></class>
+        </classes>
+    </test>
+</suite>
